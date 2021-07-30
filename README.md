@@ -1,5 +1,5 @@
-# unity-ArenaKnights
- My first game development. The game is a beat up, where you take the hole of a Knight of any four kingdoms. They are Red, Blue, Green and Yellow, these four are trying to prove themselves to their kings. So pick up your sword and defeat all arenas! (There also a survival mode for scoring purpose)
+# Arena Knights
+My first game development. The game is a beat up, where you take the hole of a Knight of any four kingdoms. They are Red, Blue, Green and Yellow, these four are trying to prove themselves to their kings. So pick up your sword and defeat all arenas! (There also a survival mode for scoring purpose)
  
  Game controls:
                  ->  W  A  S  D to walk;
